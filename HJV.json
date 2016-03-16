@@ -1,8 +1,8 @@
 {
   "room": "Hudba je Všetko",
-  "author": "Lemon & Dark1997",
+  "author": "Dark1997 / Lemon / Franta72",
   "icon": "http://i.imgur.com/92tLgta.png",
-  "css": "https://rawgit.com/Lem-on/HJV/master/HJV.css",
+  "css": "https://rawgit.com/Franta72/HJV-CSS/master/HJV.css",
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
@@ -21,13 +21,13 @@
     "manager": "#44BE85",
     "bouncer": "#44BE85",
     "rdj": "#44BE85",
-    "subscriber": "#FFD700",
+    "subscriber": "#CCB314",
     "bronzesubscriber": "#cd7f32",
     "friend": null,
     "user": null
   },
   "images": {
-    "background": "http://i.imgur.com/KpRxa2p.jpg",
+    "background": "https://cdn.radiant.dj/rcs/bg/13.png", 
     "playback": "http://i.imgur.com/MOoDUY4.png",
     "admin": "",
     "ambassador": "",
@@ -41,7 +41,9 @@
     "other": null
   },
   "emotes": {
-    "tigerthuglife": "http://i.imgur.com/V5qnpA5.png",
-    "hjvhype": "http://i.imgur.com/5pYt3al.png"
+    "tigerthuglife": "http://i.imgur.com/vxasIHL.png",
+	  "tigersex": "http://i.imgur.com/fe3W2t8.gifv",
+	  "tigerlongnight": "http://i.imgur.com/S5g4lxi.gifv",
+	  "tigerwater": "http://i.imgur.com/SNtYn8j.gifv"
   }
 }
